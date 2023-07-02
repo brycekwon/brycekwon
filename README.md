@@ -3,7 +3,7 @@
 <p align="center">
     <a href="mailto:contact@brycekwon.dev"><code>contact@brycekwon.dev</code></a>
     |
-    <a href="https://keys.openpgp.org/search?q=0B51732D65E64B5F"><code>0B51 732D 65E6 4B5F</code></a>
+    <a href="https://keys.openpgp.org/search?q=0B51732D65E64B5F" target="_blank"><code>0x0B51732D65E64B5F</code></a>
 </p>
 
 <p align="center">
