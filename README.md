@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brycekwon&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brycekwon&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brycekwon&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brycekwon&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brycekwon&theme=github_dark">
+    <img src="./profile-summary-card-output/github_dark/0-profile-details.svg">
+    <img src="./profile-summary-card-output/github_dark/3-stats.svg">
+    <img src="./profile-summary-card-output/github_dark/4-productive-time.svg">
+    <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
 </p>
