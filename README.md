@@ -12,25 +12,6 @@
     <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
 </p>
 
-<br />
-
-<details>
-    <summary>Further Details</summary>
-    <p>
-        <ul>
-            <li>🔭 I'm currently working on my education in computer science</li>
-            <li>🌱 I'm current learning the languages JavaScript, Python, Java, C</li>
-            <li>💬 Ask me about Cybersecurity and Digital Privacy</li>
-            <li>📫 Contact me through email at <a href="mailto:contact@brycekwon.dev">contact@brycekwon.dev</a></li>
-            <li>💻 Connect with me on <a href="https://www.linkedin.com/in/brycekwon/">LinkedIn</a> or <a href="https://github.com/brycekwon">GitHub</a></li>
-            <li>🎲 Fun fact, I used be a major in biology</li>
-        </ul>
-    </p>
-</details> 
-
-<br />
-
-<details>
-    <summary>Tech Stack</summary>
+<p align="center">
     <img src="https://skillicons.dev/icons?i=javascript,html,css,c,java,python,bash,git,vim,vscode,idea&theme=dark" />
-</details>
+</p>
