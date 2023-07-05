@@ -1,7 +1,6 @@
 name: Profile-Summary-Cards
 
 on:
-  push:
   schedule:
     - cron: "* */24 * * *"
   workflow_dispatch:
