@@ -1,7 +1,7 @@
 ---
 name: Bug Report
-about: Create a report
-title: "[BUG] "
+about: Create a bug report if you find any issues with this repository
+title: ""
 labels: status:waiting, type:bug
 assignees: ""
 

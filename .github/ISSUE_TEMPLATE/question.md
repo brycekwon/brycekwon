@@ -1,7 +1,7 @@
 ---
 name: Question
-about: Ask a question
-title: "[QUESTION] "
+about: Ask me a question within a public forum
+title: ""
 labels: status:waiting, type:question
 assignees: ""
 
