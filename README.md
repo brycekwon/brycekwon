@@ -4,7 +4,7 @@
     <p>
         <a href="mailto:contact@brycekwon.dev"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
         <a href="https://matrix.to/#/@brycekwon:matrix.org"><img src="https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white" /></a>
-        <a href="https://www.linkedin.com/in/brycekwon/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <!-- <a href="https://www.linkedin.com/in/brycekwon/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
         <!-- <a href="https://github.com/brycekwon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> -->
     </p>
 </div>
