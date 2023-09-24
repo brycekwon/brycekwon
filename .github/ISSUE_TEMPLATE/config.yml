@@ -1,1 +1,8 @@
 blank_issues_enabled: false
+contact_links:
+  - name: Email
+    url: "mailto:contact@brycekwon.dev"
+    about: "Feel free to send your questions here."
+  - name: Matrix
+    url: "https://matrix.to/#/@brycekwon:matrix.org"
+    about: "Feel free to send your questions here."
