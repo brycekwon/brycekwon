@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    If you want to continue following my work and/or journey, you can connect with me on LinkedIn and/or GitHub. If you want to get into contact, you can reach me best through email. Feel free to ask me about topics relating to my projects, cybersecurity, digital privacy, or just to say hello! Finally, a fun fact, my first major was biology (pre-medicine).
+   If you want to continue following my work and/or journey, you can connect with me on LinkedIn and GitHub. If you would like to get in touch, you can reach me best through email. Feel free to ask me about topics relating to my projects, cybersecurity, digital privacy, or just to say hello! Finally, a fun fact: my original major was biology.
 </p>
 
 <p align="center">
