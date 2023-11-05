@@ -8,7 +8,7 @@
    If you want to continue following my work and/or journey, you can connect with me on LinkedIn and GitHub. If you would like to get in touch, you can reach me best through email. Feel free to ask me about topics relating to my projects, cybersecurity, digital privacy, or just to say hello! Finally, a fun fact: my original major was biology.
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://skillicons.dev/icons?i=javascript,html,css,c,java,python,bash,mongodb,git&theme=dark" />
 </p>
 
@@ -18,4 +18,4 @@
     <img src="./profile-summary-card-output/github_dark/4-productive-time.svg">
     <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
     <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
-</p>
+</p> -->
