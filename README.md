@@ -1,21 +1,15 @@
-<h1 align="center">Hello World! I'm Bryce 👋</h1>
+<h1 align="center">
+    Hello World! I'm Bryce 👋
+</h1>
 
 <p align="center">
-    Welcome to my digital playground! I'm a full-time student studying computer science at the University of Portland. Programming has come to be a great interest of mine, as it allows me to create and do things that were once seen as impossible to me. When I'm not at my keyboard, you can find me exercising, hiking, or hanging out with friends and family. My passion for learning continues to push me past the boundaries of what's possible. I'm currently working on completing my degree and honing my skills in various programming languages such as JavaScript, Python, Java, and C.
+    Welcome to my digital sandbox! I'm a full-time student at the University of Portland, diving headfirst into the world of computer science. Programming has
+    become my passion, allowing me to conjure up creations and possibilities that once seemed like figments of my imagination. When I'm not tapping away at my
+    keyboard, you can find me exercising at the gym, hiking scenic trails, or catching up with friends and family.
 </p>
 
 <p align="center">
-   If you want to continue following my work and/or journey, you can connect with me on LinkedIn and GitHub. If you would like to get in touch, you can reach me best through email. Feel free to ask me about topics relating to my projects, cybersecurity, digital privacy, or just to say hello! Finally, a fun fact: my original major was biology.
+    Connect with me on <a href="https://www.linkedin.com/in/brycekwon/">LinkedIn</a> and <a href="https://github.com/brycekwon/">GitHub</a> to follow my journey
+    into the digital realm. If you'd like to drop me a line, <a href="mailto:contact@brycekwon.dev">email</a> is my preferred method of communication. Feel free
+    to ask me anything about my projects,cybersecurity, digital privacy, or just to say hello!
 </p>
-
-<!-- <p align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,c,java,python,bash,mongodb,git&theme=dark" />
-</p>
-
-<p align="center">
-    <img src="./profile-summary-card-output/github_dark/0-profile-details.svg">
-    <img src="./profile-summary-card-output/github_dark/3-stats.svg">
-    <img src="./profile-summary-card-output/github_dark/4-productive-time.svg">
-    <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
-    <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
-</p> -->
