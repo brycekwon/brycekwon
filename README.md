@@ -10,6 +10,7 @@
 
 <p align="center">
     Connect with me on <a href="https://www.linkedin.com/in/brycekwon/">LinkedIn</a> and <a href="https://github.com/brycekwon/">GitHub</a> to follow my journey
-    into the digital realm. If you'd like to drop me a line, <a href="mailto:contact@brycekwon.dev">email</a> is my preferred method of communication. Feel free
+    into the digital realm. If you'd like to contact me, <a href="mailto:contact@brycekwon.dev">email</a> is my preferred method of communication. Feel free
     to ask me anything about my current projects, cybersecurity, digital privacy, or just to say hello!
 </p>
+
