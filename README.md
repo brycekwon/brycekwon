@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Bryce Kwon (@brycekwon)
+- 👀 I’m interested in the intersection of computing and biology
+- 🌱 I’m currently an undergraduate student at the University of Portland
+- 📫 How to reach me? Send an email to kwon25@up.edu
